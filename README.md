@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @LuboDimitrov
-- 👀 I’m interested in anything related with computer hardware
-- 🌱 I’m currently studying Computer Engineering at University of the Balearic Islands (UIB)
-- 📫 How to reach me: e-mail: lubodimitrov500@gmail.com
+- 👀 I’m interested in anything related with computer hardware such as CPUs, microcontrollers, etc.
+- 🌱 I’m currently learning Java, C/C++, JavaScript
+- 👩‍🎓 I’m currently studying Computer Engineering at University of the Balearic Islands (UIB)
+- 📫 Contact me via e-mail: lubodimitrov500@gmail.com
 
 <!---
 LuboDimitrov/LuboDimitrov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
