@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @LuboDimitrov
 - 👀 I’m interested in anything related with computer hardware such as CPUs, microcontrollers, etc.
 - 🌱 I’m currently learning Java, C/C++, JavaScript
-- 👩‍🎓 Senior student of Computer Engineering at University of the Balearic Islands (UIB). 
+- 👩‍🎓 I'm currently studying Computer Engineering at University of the Balearic Islands (UIB).
 - 📫 Contact me via e-mail: lubodimitrov500@gmail.com
 
 <!---
