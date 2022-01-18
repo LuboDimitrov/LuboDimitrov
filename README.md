@@ -40,7 +40,7 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuboDimitrov&exclude_repo=PracticaAprenentatgeAutomatic&theme=radical" />
 
 Icons credits: 
-<a href="https://icons8.com/icon/13930/linkedin">LinkedIn icon by Icons8</a>
+<a href="https://icons8.com/icon/13930/linkedin" style="display:none">LinkedIn icon by Icons8</a>
 <a href="https://icons8.com/icon/P7UIlhbpWzZm/gmail">Gmail icon by Icons8</a>
 <a href="https://icons8.com/icon/xWVjuc9hryql/twitter">Twitter icon by Icons8</a>
 <a href="https://icons8.com/icon/Xy10Jcu1L2Su/instagram">Instagram icon by Icons8</a>
