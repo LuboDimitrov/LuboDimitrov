@@ -6,7 +6,7 @@
 - ✨ Favourite IDEs
 
     ![ij][2.1] ![vscode][2.2] ![vs][2.3]
-- 👩‍🎓 I'm currently studying Computer Engineering at University of the Balearic Islands (UIB).
+- 👩‍🎓 I'm currently studying Computer Engineering at University of the Balearic Islands ![UIB][2.4]
 - 📫 Contact me! (Links down below)
 
 
@@ -24,6 +24,7 @@
 [2.1]: https://img.icons8.com/color/48/000000/intellij-idea.png
 [2.2]: https://img.icons8.com/color/48/000000/visual-studio-code-2019.png
 [2.3]: https://img.icons8.com/fluency/48/000000/visual-studio-2019.png
+[2.4]: https://drive.google.com/file/d/1xA6DB4IXCDojZwCiXIFa35didrdCBNCM/view?usp=sharing
 
 
 
