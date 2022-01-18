@@ -4,7 +4,7 @@
 - 👩‍🎓 I'm currently studying Computer Engineering at University of the Balearic Islands (UIB).
 - 📫 Contact me via e-mail: lubodimitrov500@gmail.com
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LuboDimitrov)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LuboDimitrov&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 LuboDimitrov/LuboDimitrov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
