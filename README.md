@@ -8,7 +8,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuboDimitrov&langs_count=20&exclude_repo=PracticaAprenentatgeAutomatic)](https://github.com/anuraghazra/github-readme-stats)
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuboDimitrov&theme=dracula" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuboDimitrov&exclude_repo=PracticaAprenentatgeAutomatic&theme=radical" />
 <!---
 LuboDimitrov/LuboDimitrov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
