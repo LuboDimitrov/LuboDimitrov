@@ -6,7 +6,8 @@
 - ✨ Favourite IDEs
 
     ![ij][2.1] ![vscode][2.2] ![vs][2.3]
-- 👩‍🎓 I'm currently studying Computer Engineering at University of the Balearic Islands ![UIB][2.4]
+- 👩‍🎓 I'm currently studying Computer Engineering at University of the Balearic Islands 
+                                                                      ![][2.4]
 - 📫 Contact me! (Links down below)
 
 
