@@ -24,7 +24,7 @@
 [2.1]: https://img.icons8.com/color/48/000000/intellij-idea.png
 [2.2]: https://img.icons8.com/color/48/000000/visual-studio-code-2019.png
 [2.3]: https://img.icons8.com/fluency/48/000000/visual-studio-2019.png
-[2.4]: https://mega.nz/file/vo02kYiL#sjxtd5t8oF3LdK9HgysXMjiJabx-4ybfG_bU4ihOxk0
+[2.4]: https://i.ibb.co/m6WFD76/338730-logo-uib-vertical-color-transparente-1.png
 
 
 
