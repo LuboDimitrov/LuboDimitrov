@@ -17,7 +17,7 @@
 [1.4]: https://img.icons8.com/color/48/000000/twitter--v2.png
 [1.5]: https://img.icons8.com/fluency/48/000000/instagram-new.png
 [1.6]: https://img.icons8.com/color/24/000000/instagram-verification-badge.png
-[1.7]: https://img.icons8.com/nolan/48/java-coffee-cup-logo.png
+[1.7]: https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png
 [1.8]: https://img.icons8.com/color/48/000000/c-programming.png
 [1.9]: https://img.icons8.com/color/48/000000/c-plus-plus-logo.png
 [2.0]: https://img.icons8.com/color/48/000000/arduino.png
