@@ -13,9 +13,9 @@
 [1.5]: https://img.icons8.com/fluency/48/000000/instagram-new.png"
 
 [1]: https://www.linkedin.com/in/lyubomir-dimitrov-88a11a176/
-[2]: https://mail.google.com/mail/?view=cm&source=mailto&to=lubodimitrov500@gmail.com&target="_blank"
+[2]: https://mail.google.com/mail/?view=cm&source=mailto&to=lubodimitrov500@gmail.com
 [3]: https://twitter.com/Luubo10"
-[4]: 
+[4]: https://www.instagram.com/lubo_7/
 
 [![Lubo's GitHub stats](https://github-readme-stats.vercel.app/api?username=LuboDimitrov&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
