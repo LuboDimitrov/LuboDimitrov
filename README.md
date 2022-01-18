@@ -10,12 +10,12 @@
 [1.2]: https://img.icons8.com/color/48/000000/linkedin.png
 [1.3]: https://img.icons8.com/fluency/48/000000/gmail-new.png
 [1.4]: https://img.icons8.com/color/48/000000/twitter--v2.png
-[1.5]: https://img.icons8.com/fluency/48/000000/instagram-new.png"
-[1.6]: https://img.icons8.com/color/24/000000/instagram-verification-badge.png"
+[1.5]: https://img.icons8.com/fluency/48/000000/instagram-new.png
+[1.6]: https://img.icons8.com/color/24/000000/instagram-verification-badge.png
 
 [1]: https://www.linkedin.com/in/lyubomir-dimitrov-88a11a176/
 [2]: https://mail.google.com/mail/?view=cm&source=mailto&to=lubodimitrov500@gmail.com
-[3]: https://twitter.com/Luubo10"
+[3]: https://twitter.com/Luubo10
 [4]: https://www.instagram.com/lubo_7/
 
 [![Lubo's GitHub stats](https://github-readme-stats.vercel.app/api?username=LuboDimitrov&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
