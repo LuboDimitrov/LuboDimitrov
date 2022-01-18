@@ -38,6 +38,21 @@
 [![Lubo's GitHub stats](https://github-readme-stats.vercel.app/api?username=LuboDimitrov&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuboDimitrov&exclude_repo=PracticaAprenentatgeAutomatic&theme=radical" />
+Links to the icons
+<a href="https://icons8.com/icon/13930/linkedin">LinkedIn icon by Icons8</a>
+<a href="https://icons8.com/icon/P7UIlhbpWzZm/gmail">Gmail icon by Icons8</a>
+<a href="https://icons8.com/icon/xWVjuc9hryql/twitter">Twitter icon by Icons8</a>
+<a href="https://icons8.com/icon/Xy10Jcu1L2Su/instagram">Instagram icon by Icons8</a>
+<a href="https://icons8.com/icon/FRRACRKRsw2s/java">Java icon by Icons8</a>
+<a href="https://icons8.com/icon/40669/c++">C++ icon by Icons8</a>
+<a href="https://icons8.com/icon/40670/c-programming">C Programming icon by Icons8</a>
+<a href="https://icons8.com/icon/13444/arduino">Arduino icon by Icons8</a>
+<a href="https://icons8.com/icon/61466/intellij-idea">IntelliJ IDEA icon by Icons8</a>
+<a href="https://icons8.com/icon/9OGIyU8hrxW5/visual-studio-code-2019">Visual Studio Code 2019 icon by Icons8</a>
+<a href="https://icons8.com/icon/ezj3zaVtImPg/visual-studio-2019">Visual Studio 2019 icon by Icons8</a>
+<a href="https://icons8.com/icon/1LAX3PYMg2iA/android-studio">Android Studio icon by Icons8</a>
+
+
 <!---
 LuboDimitrov/LuboDimitrov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
