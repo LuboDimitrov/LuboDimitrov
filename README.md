@@ -2,7 +2,7 @@
 - 👀 I’m interested in anything related with computer hardware such as CPUs, microcontrollers, etc.
 - 🌱 I’m currently interested in the following languages
 
-     ![Java][1.7] ![C][1.8] ![C++][1.9] 
+     ![Java][1.7] ![C][1.8] ![C++][1.9] ![Arduino][2.0]
 - 👩‍🎓 I'm currently studying Computer Engineering at University of the Balearic Islands (UIB).
 - 📫 Contact me! (Links down below)
 
@@ -17,6 +17,7 @@
 [1.7]: https://img.icons8.com/nolan/48/java-coffee-cup-logo.png
 [1.8]: https://img.icons8.com/color/48/000000/c-programming.png
 [1.9]: https://img.icons8.com/color/48/000000/c-plus-plus-logo.png
+[2.0]: https://img.icons8.com/color/48/000000/arduino.png
 
 
 [1]: https://www.linkedin.com/in/lyubomir-dimitrov-88a11a176/
