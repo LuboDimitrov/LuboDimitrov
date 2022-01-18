@@ -5,7 +5,7 @@
      ![Java][1.7] ![C][1.8] ![C++][1.9] ![Arduino][2.0]
 - ✨ Favourite IDEs
 
-    ![ij][2.1] ![vscode][2.2] ![vs][2.2]
+    ![ij][2.1] ![vscode][2.2] ![vs][2.3]
 - 👩‍🎓 I'm currently studying Computer Engineering at University of the Balearic Islands (UIB).
 - 📫 Contact me! (Links down below)
 
