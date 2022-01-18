@@ -4,9 +4,9 @@
 - 👩‍🎓 I'm currently studying Computer Engineering at University of the Balearic Islands (UIB).
 - 📫 Contact me via e-mail: lubodimitrov500@gmail.com or [![LinkedIn][1.2]][1].
 
-[1.2] <img src="https://img.icons8.com/color/48/000000/linkedin.png"/>
+[1.2]: https://img.icons8.com/color/48/000000/linkedin.png
 
-[1] https://www.linkedin.com/in/lyubomir-dimitrov-88a11a176/
+[1]: https://www.linkedin.com/in/lyubomir-dimitrov-88a11a176/
 
 [![Lubo's GitHub stats](https://github-readme-stats.vercel.app/api?username=LuboDimitrov&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
