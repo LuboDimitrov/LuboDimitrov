@@ -3,9 +3,9 @@
 - 🌱 I’m currently interested in the following languages
 
      ![Java][1.7] ![C][1.8] ![C++][1.9] ![Arduino][2.0]
-- ✨ Favourite IDEs
+- ✨ Favourite IDEs and code editors
 
-    ![ij][2.1] ![vscode][2.2] ![vs][2.3]
+    ![ij][2.1] ![vscode][2.2] ![vs][2.3] ![atom][2.5]
 - 👩‍🎓 I'm currently studying Computer Engineering at University of the Balearic Islands (UIB) <!-- ![UIB][2.4] -->
 - 📫 Contact me! (Links down below)
 
@@ -25,6 +25,7 @@
 [2.2]: https://img.icons8.com/color/48/000000/visual-studio-code-2019.png
 [2.3]: https://img.icons8.com/fluency/48/000000/visual-studio-2019.png
 [2.4]: https://i.ibb.co/m6WFD76/338730-logo-uib-vertical-color-transparente-1.png
+[2.5]: https://i.ibb.co/P4JKZsc/atom-logo-vector.png
 
 
 
