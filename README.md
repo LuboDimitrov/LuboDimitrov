@@ -6,7 +6,7 @@
 
 
  [![LinkedIn][1.2]][1]
- [![Gmail][1.3]] lubodimitrov500@gmail.com
+ [![Gmail][1.3]
 
 [1.2]: https://img.icons8.com/color/48/000000/linkedin.png
 [1.3]: https://img.icons8.com/fluency/48/000000/gmail-new.png
