@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @LuboDimitrov
+- 👋 Hi, I’m @LuboDimitrov [9]: https://img.icons8.com/color/48/000000/instagram-verification-badge.png"
 - 👀 I’m interested in anything related with computer hardware such as CPUs, microcontrollers, etc.
 - 🌱 I’m currently learning Java, C/C++, Arduino
 - 👩‍🎓 I'm currently studying Computer Engineering at University of the Balearic Islands (UIB).
