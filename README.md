@@ -1,6 +1,8 @@
-- 👋 Hi, I’m @LuboDimitrov ![Verified][1.6]
+- 👋 Hi, I’m @LuboDimitrov <!--![Verified][1.6]-->
 - 👀 I’m interested in anything related with computer hardware such as CPUs, microcontrollers, etc.
-- 🌱 I’m currently learning Java, C/C++, Arduino
+- 🌱 I’m currently interested in the following languages
+
+     ![Java][1.7], C/C++, Arduino
 - 👩‍🎓 I'm currently studying Computer Engineering at University of the Balearic Islands (UIB).
 - 📫 Contact me! (Links down below)
 
@@ -12,6 +14,7 @@
 [1.4]: https://img.icons8.com/color/48/000000/twitter--v2.png
 [1.5]: https://img.icons8.com/fluency/48/000000/instagram-new.png
 [1.6]: https://img.icons8.com/color/24/000000/instagram-verification-badge.png
+[1.7]: https://img.icons8.com/nolan/48/java-coffee-cup-logo.png
 
 [1]: https://www.linkedin.com/in/lyubomir-dimitrov-88a11a176/
 [2]: https://mail.google.com/mail/?view=cm&source=mailto&to=lubodimitrov500@gmail.com
