@@ -3,6 +3,9 @@
 - 🌱 I’m currently interested in the following languages
 
      ![Java][1.7] ![C][1.8] ![C++][1.9] ![Arduino][2.0]
+- ✨ Favourite IDEs
+
+    ![ij][2.1] ![vscode][2.2] ![vs][2.2]
 - 👩‍🎓 I'm currently studying Computer Engineering at University of the Balearic Islands (UIB).
 - 📫 Contact me! (Links down below)
 
@@ -18,6 +21,10 @@
 [1.8]: https://img.icons8.com/color/48/000000/c-programming.png
 [1.9]: https://img.icons8.com/color/48/000000/c-plus-plus-logo.png
 [2.0]: https://img.icons8.com/color/48/000000/arduino.png
+[2.1]: https://img.icons8.com/color/48/000000/intellij-idea.png
+[2.2]: https://img.icons8.com/color/48/000000/visual-studio-code-2019.png
+[2.3]: https://img.icons8.com/fluency/48/000000/visual-studio-2019.png
+
 
 
 [1]: https://www.linkedin.com/in/lyubomir-dimitrov-88a11a176/
