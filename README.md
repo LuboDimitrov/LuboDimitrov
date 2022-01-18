@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @LuboDimitrov <!--![Verified][1.6]-->
+- 👋 Hi, I’m @LuboDimitrov <!--![Verified][1.6]--> ![](https://komarev.com/ghpvc/?username=LuboDimitrov&color=blueviolet)
 - 👀 I’m interested in anything related with computer hardware such as CPUs and microcontrollers. I also like all the backend stuff
 - 🌱 I’m currently interested in the following languages
 
