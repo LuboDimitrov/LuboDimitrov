@@ -1,3 +1,5 @@
+[![Header](https://raw.githubusercontent.com/LuboDimitrov/<OWNER>/<OWNER>/readme_header.png "Header")](https://some-url.dev/)
+
 - 👋 Hi, I’m @LuboDimitrov
 - 👀 I’m interested in anything related with computer hardware such as CPUs, microcontrollers, etc.
 - 🌱 I’m currently learning Java, C/C++, Arduino
