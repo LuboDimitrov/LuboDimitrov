@@ -2,9 +2,9 @@
 - 👀 I’m interested in anything related with computer hardware such as CPUs, microcontrollers, etc.
 - 🌱 I’m currently learning Java, C/C++, Arduino
 - 👩‍🎓 I'm currently studying Computer Engineering at University of the Balearic Islands (UIB).
-- 📫 Contact me (! 
-- [![LinkedIn][1.2]][1].
-- [![Gmail][1.3]]. lubodimitrov500@gmail.com
+- 📫 Contact me! (Links down below 
+ [![LinkedIn][1.2]][1]
+ [![Gmail][1.3]] lubodimitrov500@gmail.com
 
 [1.2]: https://img.icons8.com/color/48/000000/linkedin.png
 [1.3]: https://img.icons8.com/fluency/48/000000/gmail-new.png
