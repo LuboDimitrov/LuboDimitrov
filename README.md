@@ -29,7 +29,7 @@
 [2.4]: https://i.ibb.co/m6WFD76/338730-logo-uib-vertical-color-transparente-1.png
 [2.5]: https://i.ibb.co/P4JKZsc/atom-logo-vector.png
 [2.6]: https://img.icons8.com/fluency/48/000000/android-studio--v2.png
-
+[2.7]: https://github-readme-stats.vercel.app/api/top-langs/?username=LuboDimitrov&exclude_repo=PracticaAprenentatgeAutomatic&theme=radical
 
 
 [1]: https://www.linkedin.com/in/lyubomir-dimitrov-88a11a176/
@@ -37,9 +37,9 @@
 [3]: https://twitter.com/Luubo10
 [4]: https://www.instagram.com/lubo_7/
 
-[![Lubo's GitHub stats](https://github-readme-stats.vercel.app/api?username=LuboDimitrov&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Lubo's GitHub stats](https://github-readme-stats.vercel.app/api?username=LuboDimitrov&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats) ![][2.7]
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuboDimitrov&exclude_repo=PracticaAprenentatgeAutomatic&theme=radical" />
+<!--<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuboDimitrov&exclude_repo=PracticaAprenentatgeAutomatic&theme=radical" />-->
 
 Icons credits: 
 <a href="https://icons8.com/icon/13930/linkedin">LinkedIn icon by Icons8</a>
