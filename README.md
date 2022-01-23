@@ -37,9 +37,9 @@
 [3]: https://twitter.com/Luubo10
 [4]: https://www.instagram.com/lubo_7/
 
-[![Lubo's GitHub stats](https://github-readme-stats.vercel.app/api?username=LuboDimitrov&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)     <div></div> ![][2.7]
+[![Lubo's GitHub stats](https://github-readme-stats.vercel.app/api?username=LuboDimitrov&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)     
 
-<!--<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuboDimitrov&exclude_repo=PracticaAprenentatgeAutomatic&theme=radical" />-->
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuboDimitrov&exclude_repo=PracticaAprenentatgeAutomatic&theme=radical" />
 
 Icons credits: 
 <a href="https://icons8.com/icon/13930/linkedin">LinkedIn icon by Icons8</a>
