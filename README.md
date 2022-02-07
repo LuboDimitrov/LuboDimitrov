@@ -12,7 +12,7 @@
 - 📫 Contact me! (Links down below)
 
 
-     [![LinkedIn][1.2]][1] [![Gmail][1.3]][2] [![Twitter][1.4]][3] [![Instagram][1.5]][4] 
+     [![LinkedIn][1.2]][1] <!--[![Gmail][1.3]][2]--> [![Twitter][1.4]][3] <!--[![Instagram][1.5]][4]--> 
 
 [1.2]: https://img.icons8.com/color/48/000000/linkedin.png
 [1.3]: https://img.icons8.com/fluency/48/000000/gmail-new.png
