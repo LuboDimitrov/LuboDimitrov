@@ -7,7 +7,7 @@
      ![Java][1.7] ![C][1.8] ![C++][1.9] ![Arduino][2.0]
 - ✨ Favourite IDEs and code editors
 
-    ![Intellij][2.1] ![Visual Studio Code][2.2] ![Visual Studio][2.3]  ![Atom][2.5]  ![Android Studio][2.6]
+    ![Intellij][2.1] ![Visual Studio Code][2.2] ![Visual Studio][2.3]  <!--![Atom][2.5]-->  ![Android Studio][2.6]
 - 👩‍🎓 I'm currently studying Computer Engineering at University of the Balearic Islands (UIB) <!-- ![UIB][2.4] -->
 - 📫 Contact me! (Links down below)
 
