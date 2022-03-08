@@ -27,7 +27,7 @@
 [2.2]: https://img.icons8.com/color/48/000000/visual-studio-code-2019.png
 [2.3]: https://img.icons8.com/fluency/48/000000/visual-studio-2019.png
 [2.4]: https://i.ibb.co/m6WFD76/338730-logo-uib-vertical-color-transparente-1.png
-[2.5]: https://img.icons8.com/windows/50/000000/atom-editor.png
+[2.5]: https://img.icons8.com/clouds/100/000000/atom-editor.png
 [2.6]: https://img.icons8.com/fluency/48/000000/android-studio--v2.png
 [2.7]: https://github-readme-stats.vercel.app/api/top-langs/?username=LuboDimitrov&exclude_repo=PracticaAprenentatgeAutomatic&theme=radical
 
