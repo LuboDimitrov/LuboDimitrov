@@ -4,7 +4,7 @@
 - 👀 I’m interested in anything related with computer hardware such as CPUs and microcontrollers. I also like all the backend stuff
 - 🌱 I’m currently interested in the following languages
 
-     ![Java][1.7] ![C][1.8] ![C++][1.9] ![Arduino][2.0]
+     ![Java][1.7] ![C][1.8] ![C++][1.9] ![Arduino][2.0] ![Javascript][2.8]
 - ✨ Favourite IDEs and code editors
 
     ![Intellij][2.1] ![Visual Studio Code][2.2] ![Visual Studio][2.3]  <!--![Atom][2.5]-->  ![Android Studio][2.6]
@@ -30,7 +30,7 @@
 [2.5]: https://img.icons8.com/clouds/100/000000/atom-editor.png
 [2.6]: https://img.icons8.com/fluency/48/000000/android-studio--v2.png
 [2.7]: https://github-readme-stats.vercel.app/api/top-langs/?username=LuboDimitrov&exclude_repo=PracticaAprenentatgeAutomatic&theme=radical
-
+[2.8]: https://img.icons8.com/color/48/000000/javascript--v1.png
 
 [1]: https://www.linkedin.com/in/lyubomir-dimitrov-88a11a176/
 [2]: https://mail.google.com/mail/?view=cm&source=mailto&to=lubodimitrov500@gmail.com
