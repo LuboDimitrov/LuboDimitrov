@@ -5,6 +5,9 @@
 - 🌱 I’m currently interested in the following languages
 
      ![Java][1.7] ![C][1.8] ![C++][1.9] ![Arduino][2.0] ![Javascript][2.8]
+- 🐬 Frameworks i want to learn
+     
+     ![AngularJS][2.9] ![SpringBoot][3.0]
 - ✨ Favourite IDEs and code editors
 
     ![Intellij][2.1] ![Visual Studio Code][2.2] ![Visual Studio][2.3]  <!--![Atom][2.5]-->  ![Android Studio][2.6]
@@ -31,6 +34,8 @@
 [2.6]: https://img.icons8.com/fluency/48/000000/android-studio--v2.png
 [2.7]: https://github-readme-stats.vercel.app/api/top-langs/?username=LuboDimitrov&exclude_repo=PracticaAprenentatgeAutomatic&theme=radical
 [2.8]: https://img.icons8.com/color/48/000000/javascript--v1.png
+[2.9]: https://img.icons8.com/color/48/000000/angularjs.png
+[3.0]: https://img.icons8.com/color/48/000000/spring-logo.png
 
 [1]: https://www.linkedin.com/in/lyubomir-dimitrov-88a11a176/
 [2]: https://mail.google.com/mail/?view=cm&source=mailto&to=lubodimitrov500@gmail.com
@@ -54,6 +59,10 @@ Icons credits:
 <a href="https://icons8.com/icon/9OGIyU8hrxW5/visual-studio-code-2019">Visual Studio Code 2019 icon by Icons8</a>
 <a href="https://icons8.com/icon/ezj3zaVtImPg/visual-studio-2019">Visual Studio 2019 icon by Icons8</a>
 <a href="https://icons8.com/icon/1LAX3PYMg2iA/android-studio">Android Studio icon by Icons8</a>
+<a target="_blank" href="https://icons8.com/icon/108784/javascript">JavaScript icon by Icons8</a>
+<a target="_blank" href="https://icons8.com/icon/71257/angularjs">AngularJS icon by Icons8</a>
+<a target="_blank" href="https://icons8.com/icon/90519/spring-logo">Spring Logo icon by Icons8</a>
+
 
 
 <!---
